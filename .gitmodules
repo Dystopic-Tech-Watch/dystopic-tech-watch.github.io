@@ -1,0 +1,15 @@
+[submodule "hugo-nes-classic"]
+	path = hugo-nes-classic
+	url = https://github.com/rjayasinghe/hugo-nes-classic.git
+[submodule "themes/hugo-nes-classic"]
+	path = themes/hugo-nes-classic
+	url = https://github.com/rjayasinghe/hugo-nes-classic.git
+[submodule "themes/dusky-neon-potato"]
+	path = themes/dusky-neon-potato
+	url = https://github.com/VVelox/hugo-dusky-neon-potato.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/meghna"]
+	path = themes/meghna
+	url = https://github.com/themefisher/meghna-hugo.git

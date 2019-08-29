@@ -1,0 +1,4 @@
+baseURL = "http://dystopic-tech-watch.github.io/"
+languageCode = "en-us"
+title = "Dystopic Tech Watch"
+theme = "meghna"
